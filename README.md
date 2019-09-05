@@ -1,6 +1,5 @@
 # play-mysql-audit
 
-## What was build
 Demo rest api using Play framework and Java that receives a user event in Json format and stores into the MySQL database
 
 ## What you'll need
